@@ -1,4 +1,4 @@
-# 🧠 simt3d-render
+# 🧠 ProjectWarped3D
 
 > A Verilog-based SIMT (Single Instruction, Multiple Threads) processor core designed to render 3D images using GPU-style parallelism and warp scheduling. Built for simulation on Intel i5 using tools like Icarus Verilog and VS Code.
 
