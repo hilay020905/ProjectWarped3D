@@ -1,6 +1,6 @@
 # 🎮 3D Shapes Renderer using Verilog
 
-> **Want to generate shapes like squares, circles, or even 3D cubes using only Verilog?** This project brings geometric imagination to life by creating shapes directly on a display — all powered by a custom-designed GPU architecture in RTL!
+ **Want to generate shapes like squares, circles, or even 3D cubes using only Verilog?** This project brings geometric imagination to life by creating shapes directly on a display — all powered by a custom-designed GPU architecture in RTL!
 
 ---
 
