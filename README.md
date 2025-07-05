@@ -1,4 +1,4 @@
-# 🎮 3D Shapes Renderer on VGA using Verilog
+# 🎮 3D Shapes Renderer using Verilog
 
 > **Want to generate shapes like squares, circles, or even 3D cubes using only Verilog?** This project brings geometric imagination to life by creating shapes directly on a VGA display — all powered by a custom-designed GPU architecture in RTL!
 
