@@ -77,7 +77,7 @@ make           # Builds the project using Verilator
 make clean
 ```
 
-✍️ Author
-Developed with 💻 and ❤️ by Hilay Patel
-🎓 Electrical Engineering | 🏫 IIT Tirupati
-📬 For queries, open an issue or discussion on the repo!
+## ✍️ Author
+- Developed by Hilay Patel
+- 🎓 Electrical Engineering | 🏫 IIT Tirupati
+- 📬 For queries, open an issue or discussion on the repo!
