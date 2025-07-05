@@ -2,8 +2,6 @@
 
 > **Want to generate shapes like squares, circles, or even 3D cubes using only Verilog?** This project brings geometric imagination to life by creating shapes directly on a VGA display — all powered by a custom-designed GPU architecture in RTL!
 
-![output](./IMAGES/output.bmp) <!-- Replace or add more sample images here -->
-
 ---
 
 ## 🧠 Overview
@@ -23,24 +21,28 @@ This project simulates pixel-level drawing using memory-mapped processing — an
 
 ---
 
-
----
-
 ## 🛠️ How It Works
 
-### 🧠 `core/`
+### 🧠 `core`
 Contains the brain of the rendering system — including memory management, GPU logic, processor, and framebuffer.
 
-### 🌀 `sync/`
+### 🌀 `sync`
 Handles VGA timing via horizontal and vertical sync generation.
 
-### 🎨 `shapes/`
+### 🎨 `shapes`
 Each folder corresponds to a unique shape drawing logic and instruction.
 
-### 🖼️ `IMAGES/`
+### 🖼️ `IMAGES`
 Stores rendered BMP outputs for visual verification.
 
 ---
+
+🧠 What You’ll Learn
+- How to build a minimal GPU architecture
+- Framebuffer handling in Verilog
+- VGA timing and rendering logic
+- How raster images are formed at hardware level
+- Instruction-based shape rendering with memory-mapped architecture
 
 ## 🖼️ Output Gallery
 
@@ -73,3 +75,9 @@ To compile and run the simulation:
 make           # Builds the project using Verilator
 ./sim          # Runs the simulation
 make clean
+```
+
+✍️ Author
+Developed with 💻 and ❤️ by Hilay Patel
+🎓 Electrical Engineering | 🏫 IIT Tirupati
+📬 For queries, open an issue or discussion on the repo!
