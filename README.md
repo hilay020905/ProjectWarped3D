@@ -10,12 +10,12 @@ This repository is a complete RTL-based 2D/3D shape renderer built in Verilog. I
 
 Using modules like a framebuffer, processor core, shape logic, and a horizontal/vertical sync generator, you can display shapes such as:
 
-- 🟥 **SQUARE**
-- 🔺 **TRIANGLE**
-- ⚪ **CIRCLE**
-- 🧊 **CUBE**
-- 🟦 **CUBOID**
-- ⬡ **PRISM**
+-  **SQUARE**
+-  **TRIANGLE**
+-  **CIRCLE**
+-  **CUBE**
+-  **CUBOID**
+-  **PRISM**
 
 This project simulates pixel-level drawing using memory-mapped processing — and outputs `.bmp` images as the final result.
 
