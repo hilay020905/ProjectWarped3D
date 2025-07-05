@@ -50,7 +50,7 @@ Below are examples of what this engine can generate (located in the `IMAGES/` fo
 
 | Shape    | Preview                        |
 |----------|--------------------------------|
-| Square   | ![](./IMAGES/square.bmp)       |
+| Square   | ![](./IMAGES/SQUARE.bmp)       |
 | Triangle | ![](./IMAGES/triangle.bmp)     |
 | Circle   | ![](./IMAGES/circle.bmp)       |
 | Cube     | ![](./IMAGES/cube.bmp)         |
